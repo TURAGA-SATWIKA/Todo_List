@@ -2,6 +2,7 @@ Project Description:
 ----------------------
 Welcome to our Android to-do app, crafted with Kotlin for seamless task management on your mobile devices. This application empowers users to effortlessly organize their daily activities, prioritize tasks, and stay on top of deadlines. With a user-friendly interface, intuitive controls, and robust features such as detailed task descriptions our app offers a streamlined experience for efficient task handling. Users can categorize their to-dos, set reminders, and utilize a powerful search 
 
+
 Create a to-do list Android app featuring task titles and detailed descriptions. Utilize local storage for task persistence.
 
 Task Names: Choose clear and concise names that reflect the specific actions or goals of each task. Avoid ambiguity and use keywords to aid quick understanding.
